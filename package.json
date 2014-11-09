@@ -37,7 +37,11 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin jspot gettext pomo i18n"
+    "gruntplugin",
+    "jspot",
+    "gettext",
+    "pomo",
+    "i18n"
   ],
   "dependencies": {
     "jspot": "^0.3.0"
